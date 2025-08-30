@@ -1,0 +1,16 @@
+{
+  "2024": [
+    { "mes": "Enero", "pasajeros": 1250000, "buses": 27000, "aviones": 1670, "pasajeros_bus": 1200000, "pasajeros_avion": 50000 },
+    { "mes": "Febrero", "pasajeros": 1150000, "buses": 25000, "aviones": 1330, "pasajeros_bus": 1100000, "pasajeros_avion": 50000 },
+    { "mes": "Marzo", "pasajeros": 1000000, "buses": 21500, "aviones": 333, "pasajeros_bus": 950000, "pasajeros_avion": 50000 },
+    { "mes": "Abril", "pasajeros": 1050000, "buses": 23500, "aviones": 333, "pasajeros_bus": 1000000, "pasajeros_avion": 50000 },
+    { "mes": "Mayo", "pasajeros": 920000, "buses": 20500, "aviones": 200, "pasajeros_bus": 900000, "pasajeros_avion": 20000 },
+    { "mes": "Junio", "pasajeros": 940000, "buses": 21000, "aviones": 200, "pasajeros_bus": 920000, "pasajeros_avion": 20000 },
+    { "mes": "Julio", "pasajeros": 1150000, "buses": 25000, "aviones": 333, "pasajeros_bus": 1100000, "pasajeros_avion": 50000 },
+    { "mes": "Agosto", "pasajeros": 970000, "buses": 21500, "aviones": 200, "pasajeros_bus": 950000, "pasajeros_avion": 20000 },
+    { "mes": "Septiembre", "pasajeros": 1450000, "buses": 32000, "aviones": 333, "pasajeros_bus": 1400000, "pasajeros_avion": 50000 },
+    { "mes": "Octubre", "pasajeros": 1050000, "buses": 22500, "aviones": 200, "pasajeros_bus": 1000000, "pasajeros_avion": 50000 },
+    { "mes": "Noviembre", "pasajeros": 1100000, "buses": 23500, "aviones": 200, "pasajeros_bus": 1050000, "pasajeros_avion": 50000 },
+    { "mes": "Diciembre", "pasajeros": 1350000, "buses": 29500, "aviones": 333, "pasajeros_bus": 1300000, "pasajeros_avion": 50000 }
+  ]
+}
