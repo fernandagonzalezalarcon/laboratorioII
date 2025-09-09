@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gráfico D3</title>
+    <style>
+        .barras rect {
+            fill: #ff0080;
+            opacity: .6;
+        }
+        .barras rect:hover {
+            opacity: 1;
+        }
+        .axis-x text, .axis-y text {
+            font-size: 12px;
+            fill: #000;
+        }
+        .axis-x path, .axis-x line,
+        .axis-y path, .axis-y line {
+            stroke: #ff0080;
+        }
+    </style>
+</head>
+<body>
+    <svg width="900" height="600">
+        <g class="barras"></g>
+        <g class="axis-x"></g>
+        <g class="axis-y"></g>
+    </svg>
+    <script src="scripts.js" type="module"></script>
+</body>
+</html>
